@@ -1,6 +1,6 @@
 ## Bitcoin Data Pipelines
 
-###This repository contains two ETL pipelines:
+### This repository contains two ETL pipelines:
 
 Financial Times Article Scraper: This pipeline scrapes Bitcoin-related articles from the Financial Times website using BeautifulSoup, formats publication dates, and stores the article titles and dates in an SQLite database, sorted in descending order by date.
 
